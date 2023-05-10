@@ -1,0 +1,126 @@
+/* mobile adaptive  */
+@media all and (max-width: 500px){
+
+    navbar{
+        background: #172755;
+        padding: 2%;
+        box-shadow: 0px 5px 100px 37px rgba(0, 0, 0, 0.5);
+    }
+
+    .navbar-list{
+        display: none;
+    }
+
+    .navbar-logo{
+        margin-left: 4%;
+        margin-top: -1%;
+    }
+
+    .sign-in-link{
+        margin-top: -71%;
+    }
+
+    .sign-up-btn{
+        display: none
+    }
+
+    .main-small-chart{
+        display: none;
+    }
+
+    .main-big-chart{
+        margin-left: -31%;
+        margin-top: -132%;
+        width: 93%;
+    }
+
+    .main-btn{
+        width: 184%;
+        padding: 8%;
+    }
+    
+    .main-descr{
+        width: 22rem;
+    }
+
+    .main-title{
+        margin-top: 205%;
+        font-size: 31px;
+        width: 22rem;
+        line-height: 35px;
+    }
+
+    main{
+        text-align: center;
+    }
+
+    .base{
+        height: 116vh;
+    }
+
+    .services{
+        gap: 38px;
+        margin-left: -1%;
+        flex-flow: column;
+    }
+
+    .service-title-1,
+    .service-title-2,
+    .service-title-3{
+        margin-top: -3%;
+    }
+
+    .service-descr-1,
+    .service-descr-2,
+    .service-descr-3{
+        margin-top: -2%;
+        width: 76%;
+        margin-left: 13%;
+    }
+
+    .content{
+        margin-top: 454%;
+    }
+
+    .chart-1{
+        text-align: center;
+    }
+
+    .chart-1-title{
+        width: 83%;
+        margin-left: 2%;
+    }
+
+    .chart-1-descr{
+        margin-top: 5%;
+        margin-left: 6%;
+        width: 76%;
+    }
+
+    .chart-1-image{
+        width: 93%;
+        margin-left: -51%;
+        margin-top: 0%;
+    }
+
+    .chart-2{
+        margin-top: 81%;
+        text-align: center;
+        width: 124%;
+        margin-left: 11%;
+    }
+
+    .chart-1-title,
+    .chart-2-title
+    .chart-3-title{
+        font-size: 30px;
+    }
+
+
+
+
+
+    
+}
+
+/*! mobile adaptive  */
