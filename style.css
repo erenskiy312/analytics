@@ -289,6 +289,7 @@ section{
     justify-content: center;
     margin-top: 15%;
     gap: 10%;
+    overflow: none;
 }
 
 .starter,
