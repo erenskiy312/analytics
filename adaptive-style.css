@@ -24,6 +24,10 @@
         display: none
     }
 
+    .hamburger-menu{
+        display: block;
+    }
+
     .main-small-chart{
         display: none;
     }
@@ -116,11 +120,105 @@
         font-size: 30px;
     }
 
+    .chart-2-descr{
+        width: 62%;
+    }
 
+    .chart-2-image{
+        width: 93%;
+        margin-top: 2%;
+        margin-left: -70%;
+    }
 
+    .chart-3{
+        text-align: center;
+        margin-top: 67%;
+        margin-left: 32%;
+    }
 
+    .chart-3-title{
+        width: 83%;
+        margin-left: -17%;
+    }
 
-    
+    .chart-3-descr{
+        width: 106%;
+        margin-left: -26%;
+        margin-top: 5%;
+    }
+
+    .chart-3-image{
+        width: 93%;
+        margin-left: -63%;
+        margin-top: 0%;
+    }
+
+    .content{
+        margin-top: 362%;
+        height: 133vh;
+    }
+
+    .price-plan{
+        margin-left: 5%;
+    }
+
+    .price-plan-title{
+        margin-top: 37%;
+        font-size: 30px;
+    }
+
+    .footer-list{
+        display: none;
+    }
+
+    .prices{
+        margin-top: 12%;
+    }
+
+    .starter,
+    .standard,
+    .premium{
+        padding: 12% 16%;
+    }
+
+    .starter-line,
+    .standard-line,
+    .premium-line{
+        margin-left: -46%;
+    }
+
+    .starter{
+        margin-left: -3%;
+        padding: 12% 20%;
+    }
+
+    .starter-title{
+        margin-top: -33%;
+    }
+
+    .starter-line{
+        margin-top: -3%;
+        margin-left: -84%;
+        width: 270%;
+    }
+
+    .starter-btn{
+        margin-top: 22%;
+        width: 191%;
+        margin-left: -41%;
+    }
+
+    footer{
+        margin-top: -12%;
+    }
+
+    .footer-logo{
+        margin-left: 0%;
+    }
+
+    .footer-icons{
+        padding: 0% 8%;
+    }    
 }
 
 /*! mobile adaptive  */
