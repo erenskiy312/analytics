@@ -173,6 +173,7 @@
 
     .prices{
         margin-top: 12%;
+        overflow: auto;
     }
 
     .starter,
